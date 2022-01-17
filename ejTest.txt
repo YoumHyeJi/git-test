@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 afdasdf
 추가추추추추가
+=======
+afdasdf
+>>>>>>> c5c03f7afa7040629fb580261422b68deb14d6da
