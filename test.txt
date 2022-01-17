@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 testtesttesttesttest
+
+=======
+testtesttesttesttest
+>>>>>>> c5c03f7afa7040629fb580261422b68deb14d6da
