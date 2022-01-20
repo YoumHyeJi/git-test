@@ -1,5 +1,6 @@
-test amend
+﻿test amend
 wow!
 대박!
 헐~
 amend
+rebase
